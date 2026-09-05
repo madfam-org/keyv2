@@ -1,3 +1,5 @@
+> **Archived 2026-09-04 (RFC 0038 §9 / ADR-020).** This repository is read-only. The cartridge now lives in [`https://github.com/madfam-org/solid-hyperobjects/tree/main/keyv2`](https://github.com/madfam-org/solid-hyperobjects/tree/main/keyv2) — same files, full history absorbed. Open issues and pull requests there.
+
 # Parametric Mechanical Keycap Library
 
 ![a slightly askew welcome picture](assets/welcome.png)
